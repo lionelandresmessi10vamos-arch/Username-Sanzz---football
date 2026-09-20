@@ -1,0 +1,10 @@
+{
+  "name": "Sanzz Football",
+  "short_name": "Sanzz Football",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#050b14",
+  "theme_color": "#07111f",
+  "icons": []
+}
